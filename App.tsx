@@ -1,13 +1,13 @@
 import React, { useEffect } from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import VideoSection from './components/VideoSection';
-import Services from './components/Services';
-import Gallery from './components/Gallery';
-import QRCodeSection from './components/QRCodeSection';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
-import { initializeScrollAnimations } from './utils/animations';
+import Navbar from './src/components/Navbar.tsx';
+import Hero from './src/components/Hero.tsx';
+import VideoSection from './src/components/VideoSection.tsx';
+import Services from './src/components/Services.tsx';
+import Gallery from './src/components/Gallery.tsx';
+import QRCodeSection from './src/components/QRCodeSection.tsx';
+import Contact from './src/components/Contact.tsx';
+import Footer from './src/components/Footer.tsx';
+import { initializeScrollAnimations } from './src/utils/animations';
 
 function App() {
   useEffect(() => {
