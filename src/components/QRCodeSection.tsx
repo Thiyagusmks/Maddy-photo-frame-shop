@@ -3,7 +3,7 @@ import React, { useRef, useEffect, useState } from 'react';
 const QRCodeSection: React.FC = () => {
   const sectionRef = useRef<HTMLDivElement>(null);
   const [isVisible, setIsVisible] = useState(false);
-  const qrCodePath = 'qr code.jpg'; // Replace with your actual QR code path
+  const qrCodePath = 'Maddy Frame Shop.png'; // Replace with your actual QR code path
 
   useEffect(() => {
     const observer = new IntersectionObserver(
