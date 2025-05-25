@@ -37,7 +37,7 @@ const Footer: React.FC = () => {
                 <Phone size={20} />
               </a>
               <a
-                href="pbharath05022005@gmail.com"
+                href="arulraj0000001@gmail.com"
                 className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-yellow-500 transition-all duration-300"
               >
                 <Mail size={20} />
@@ -77,11 +77,11 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-start gap-3">
                 <Mail size={18} className="text-gray-400 mt-1 flex-shrink-0" />
-                <span className="text-gray-400">pbharath05022005@gmail.com</span>
+                <span className="text-gray-400">arulraj0000001@gmail.com</span>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="text-gray-400 mt-1 flex-shrink-0" />
-                <span className="text-gray-400">NO:35, SRI VANNIYA PERUMAL KOVIL STREET, MUDALIARPET, PUDUCHERRY</span>
+                <span className="text-gray-400">NO.2 Thayagigal Thearu, Mudaliarpet, Puducherry</span>
               </li>
             </ul>
           </div>
