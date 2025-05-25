@@ -44,7 +44,7 @@ const Gallery: React.FC = () => {
       description: "Modern look with sleek edge presentation"
     },
     {
-      image: "bhara.png", // 🔁 Replace with your actual file name
+      image: "Untitled design.png", // 🔁 Replace with your actual file name
       title: "Floating Canvas Frame",
       description: "Modern look with sleek edge presentation"
     }
